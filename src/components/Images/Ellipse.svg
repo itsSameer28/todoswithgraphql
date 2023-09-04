@@ -1,0 +1,10 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Ellipse" clip-path="url(#clip0_4_414)">
+<path id="Exclude" fill-rule="evenodd" clip-rule="evenodd" d="M8 16C12.4183 16 16 12.4183 16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16ZM6.01777 11.0888L7.43198 12.503L8.84619 11.0888L13.0888 6.84619L11.6746 5.43198L8.84619 8.26041L7.43198 9.67462L6.01777 8.26041L4.25 6.49264L2.83579 7.90686L6.01777 11.0888Z" fill="#ED759D"/>
+</g>
+<defs>
+<clipPath id="clip0_4_414">
+<rect width="16" height="16" fill="white"/>
+</clipPath>
+</defs>
+</svg>
